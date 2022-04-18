@@ -322,7 +322,7 @@ Function That Returns The Amount Of Indetifiers.
 ------------
 
 ### Authors
-Edwin Pokoo-Aikins and Andrew Akligo.
+Samuel Arthur and Evelyn Ampadu.
 
 ------------
 
